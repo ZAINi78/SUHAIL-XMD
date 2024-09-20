@@ -10,8 +10,8 @@
   "__stack":"container",
   "env": {
     "OWNER_NAME": {
-      "description": "Name for Bot Owner",    
-      "value": "Suhail-X",
+      "description": "⸙ 𝐌𝐑־ 𓆩«𝚭𝚫𝚰𝚴𔒝»ꜛ؜𓆪",    
+      "value": "⸙ 𝐌𝐑־ 𓆩«𝚭𝚫𝚰𝚴𔒝»ꜛ؜𓆪,
       "required" :true
     },   
      
@@ -27,9 +27,9 @@
       "required" :false
     },
     "BOT_NAME": {
-      "description": " NAME FOR BOT",
+      "description": " ⸙ 𝐌𝐑־ 𓆩«𝚭𝚫𝚰𝚴𔒝»ꜛ؜𓆪",
       "required" :false,    
-      "value": "Suhail-X-Md"
+      "value": "⸙ 𝐌𝐑־ 𓆩«𝚭𝚫𝚰𝚴𔒝»ꜛ؜𓆪"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -67,7 +67,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923184474176"
+      "value": "923144247057"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -95,12 +95,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
+      "value": "⸙ 𝐌𝐑־ 𓆩«𝚭𝚫𝚰𝚴𔒝»ꜛ؜𓆪",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "",
+      "value": "✨",
       "required": false 
     }
   }, 
